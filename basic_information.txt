@@ -1,0 +1,35 @@
+step-1:-
+===========
+create a database
+step-2:-
+=========
+create a table
+step-3:-
+=========
+store your entire project in root directory (XAMPP root folder)
+step-4:-
+=========
+start XAMPP server
+step-5:-
+==========
+run your project
+
+
+===========================================================================
+=================================================================================
+OR
+===========================================================================
+=================================================================================
+step-1:-
+==========
+create a database
+step-2:-
+==========
+click on import button [in phpmyadmin]
+step-3:-
+==========
+choose file
+step-4:-
+=========
+select your file [youtube.sql]
+and then click "go" button 
